@@ -1,0 +1,20 @@
+
+body{
+    background: url(background.jpg);
+}
+
+
+.container{
+    margin-top: 130px;
+    background-color: darkgrey;
+    width: 30%;
+    background: url(background.jpg);
+    background-repeat: no-repeat;
+}
+
+.registration{
+    color: darkturquoise;
+}
+.input{
+    color: steelblue;
+}
